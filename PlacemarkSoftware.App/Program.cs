@@ -1,10 +1,15 @@
 using PlacemarkSoftware.App.Components;
+using Radzen;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents();
 builder.Services.AddScoped<HttpClient>();
+builder.Services.AddRazorComponents().AddInteractiveServerComponents();
+builder.Services.AddRazorPages();
+
+builder.Services.AddScoped<ThemeService>();
 
 var app = builder.Build();
 
@@ -22,6 +27,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseAntiforgery();
 
-app.MapRazorComponents<App>();
+app.MapRazorComponents<App>()
+    .AddInteractiveServerRenderMode();
 
 app.Run();

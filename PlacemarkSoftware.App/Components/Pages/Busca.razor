@@ -1,0 +1,111 @@
+﻿@page "/busca"
+
+@using PlacemarkSoftware.API.Models;
+@using Radzen;
+@inject HttpClient httpclient;
+
+<PageTitle>Home</PageTitle>
+<div class="ctnBusca">
+    <EditForm class="ctnBusca" Model="@Typesearch" OnValidSubmit="BuscarPlacemark" FormName="Typesearch">
+        <section class="container-fluid section col-sm-5">
+            <label class="form-label" for="selectType">Tipo busca: </label>
+
+            <select class="form-select"  @bind="Typesearch.Type">
+                @foreach (var item in listTypeSearch)
+                {
+                    <option value=@item>@item</option>
+                }
+            </select>
+        </section>
+        <section class="container-fluid section col-sm-6">
+            <div><label class="form-label" for="inputSearch">Campo de busca</label></div>
+            <InputText id="inputSearch" type="text" class="form-group" @bind-Value="@Typesearch.ValueSearch" />
+        </section>
+        <section class="container-fluid col-sm-6">
+            <button class="btn btn-success" type="submit">Buscar</button>
+        </section>
+    </EditForm>
+</div>
+@if (placemarksFilters != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Cliente</th>
+                <th scope="col">Rua</th>
+                <th scope="col">Bairro</th>
+                <th scope="col">Referencia</th>
+                <th scope="col">Situacao</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in placemarksFilters)
+            {
+                <tr>
+                    <td>@item.Cliente</td>
+                    <td>@item.Rua</td>
+                    <td>@item.Bairro</td>
+                    <td>@item.Referencia</td>
+                    <td>@item.Situacao</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<p>@search</p>
+@code{
+    List<string> listTypeSearch = new() { "Cliente", "Rua", "Bairro", "Referencia", "Situação"};
+    Variant variant = Variant.Outlined;
+    List<Placemark> placemarksFilters = new();
+    Placemark placemark = new();
+    public TypeSearch Typesearch = new();
+    public string search = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+    }
+
+    private void BuscarPlacemark()
+    {
+        switch (Typesearch.Type)
+        {
+            case "Cliente":
+                placemark.Cliente = search;
+                break;
+            case "Rua": placemark.Rua = search;
+                break;
+            case "Bairro" : placemark.Bairro = search;
+                break;
+            case "Referencia" : placemark.Referencia = search;
+                break;  
+            case "Situação" : placemark.Situacao = search;
+                break;
+            default:
+                search = "campo de busca vazio";
+                break;
+        };
+
+        var result = httpclient.PostAsJsonAsync<Placemark>($"https://localhost:7219/api/Placemark/GetPlacemarks/{Typesearch.Type}", placemark);
+        placemarksFilters = result.Result.Content.ReadFromJsonAsync<List<Placemark>>().Result; //.ReadFromJsonAsync<List<Placemark>>();
+    }
+
+    private string valueParameterSearch(string fieldSearch)
+    {
+        return fieldSearch switch
+        {
+            "Cliente" => placemark.Cliente = fieldSearch,
+            "Rua" => placemark.Rua = fieldSearch,
+            "Bairro" => placemark.Bairro = fieldSearch,
+            "Referencia" => placemark.Referencia = fieldSearch,
+            "Situação" => placemark.Situacao = fieldSearch,
+            _ => "campo de busca vazio"
+        };
+    }
+
+    public class TypeSearch
+    {
+        public string Type { get; set; }
+        public string ValueSearch { get; set; }
+    }
+}

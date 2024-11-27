@@ -10,4 +10,8 @@
     <ProjectReference Include="..\PlacemarkSoftware\PlacemarkSoftware.API.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Radzen.Blazor" Version="5.6.7" />
+  </ItemGroup>
+
 </Project>

@@ -6,6 +6,19 @@ a, .btn-link {
     color: #006bb7;
 }
 
+.ctnBusca {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.section{
+    display: flex;
+
+}
+
+
 .btn-primary {
     color: #fff;
     background-color: #1b6ec2;
