@@ -1,0 +1,6 @@
+@PlacemarkSoftware_HostAddress = http://localhost:5237
+
+GET {{PlacemarkSoftware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

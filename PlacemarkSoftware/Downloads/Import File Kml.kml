@@ -1,0 +1,2401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X TRAVESSA BENJAMIN CONSTANT</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA FAUSTO CARDOSO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X TV BENJAMIN CONSTANT</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA FAUSTO CARDOSO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>VALLE DOS VINHOS</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X TRAVESSA BENJAMIN CONSTANT</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA FAUSTO CARDOSO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X TRAVESSA BENJAMIN CONSTANT</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA FAUSTO CARDOSO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value>FALTA REINSTALAR</value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X AV. AUGUSTO MAYNARD </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X  AV. AUGUSTO MAYNARD</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA MINIGOLF</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DECÓS</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. AUGUSTO MAYNARD</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA MINIGOLF</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. AUGUSTO MAYNARD</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA MINIGOLF</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>REVEMAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. DR. CELSO OLIVA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO IATE CLUB</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X RUA DR. CELSO OLIVA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO IATE CLUB</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. PRES. TANCREDO NEVES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA PASTOR MARTIN LUTHER KING</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA PASTOR MARTIN LUTHER KING</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA PASTOR MARTIN LUTHER KING</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA PASTOR MARTIN LUTHER KING</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONÍVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA DR. FERNANDO SAMPAIO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CELI </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>OTTO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS FUMONT X RUA DR. FERNANDO SAMPAIO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>IGREJA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA ANTÔNIO OLIVA PAIVA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>ARACAJU TURISMO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA ANTÔNIO OLIVA PAIVA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADÃO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>NOVA BRASIL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA ANTÔNIO OLIVA PAIVA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADÃO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>IGREJA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X RUA PROF. JOSÉ LEÔNIDAS DE MENEZES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X RUA PROF. JOSÉ LEÔNIDAS DE MENEZES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X RUA PROF. JOSÉ LEÔNIDAS DE MENEZES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>PRAINHA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X RUA PROF. JOSÉ LEÔNIDAS DE MENEZES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>PRAINHA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA GUILHERMINO REZENDE X RUA MOACYR RABELO LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA STONES PUB</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>AJEUMBÓ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. GENERAL EUCLIDES FIGUEIREDO X AV. MATADOURO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA XAVIER</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>BUGIO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>JEAN PIAGET</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA DR. FERNANDO SAMPA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X AV. ROTARY</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA MC DONALDS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>REVEMAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X AV. ROTARY</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA MC DONALDS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X AV. ROTARY</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA MC DONALDS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X AV. ROTARY</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA MC DONALDS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>PRAINHA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA NAPOLEÃO DÓREA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA BALI RESTAURANTE</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA NAPOLEÃO DÓREA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>OXENTE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. EMP. JOSÉ CARLOS SILVA X AV. HILDETE FALCÃO BATISTA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. GONÇALO PRADO ROLLEMBERG X RUA STANRLEY SILVEIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value></value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MELÍCIO MACHADO X EM FRENTE A FORNERIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AEROPORTO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MELÍCIO MACHADO X EM FRENTE A FORNERIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AEROPORTO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONÍVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X RUA HUMBERTO PORTO DÓRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE AO PALÁCIO DO GOVERNADOR</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>SANTA HELENA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA MARIANMO SALMERON X RUA DISTRITO FEDERAL</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE BANCO ITAÚ</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>CASA DOS FRIOS</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA DR. FERNANDO SAMPAIO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MIN. GERALDO BARRETO SOBRAL X RUA GILBERTO ALMEIDA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO JFC</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>SANTA HELENA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X CARIRI</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>ARACAJU TURISMO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X RUA ANANIAS AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA ACADEMIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SALGADO FILHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>BABYLÂNDIA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X RUA ANANIAS AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA ACADEMIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SALGADO FILHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA FRANÇOIS HOALD</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>LADO PRAIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA LIONS CLUB</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EN FREBTE REST MATUTO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>ARACAJU TURISMO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X AV. ROTARY</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONÍVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA MARIANO SALMERON X RUA SERGIPE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA IMACA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA SANTA CATARINA X RUA VER. JOÃO CLARO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ RAÇÕES</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. OTONIEL DÓRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO MERCADO CENTRAL</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SIMEÃO SOBRAL X AV. JOÃO RODRIGUES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SIMEÃO SOBRAL X AV. ANTÔNIO CABRAL</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X RUA APULCRO MOTA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>ESTACIONAMENTO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X RUA LEOPOLDO MESQUITA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA FARMÁCIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>LOURO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X AV. DR. EDEZIO VIEIRA DE MELO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CASA DAS FARDAS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SUISSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE SPOT</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA RIO GRANDE DO SUL X RUA BAHIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>ODONTO CAMPOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA JOÃO PESSOA X TRAVESSA HÉLIO RIBEIRO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE SPOT</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JOÃO RODRIGUES X AV. CONFIANÇA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CASA DO PANIFICADOR</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. CARLOS FIRPO X RUA APULCRO MOTA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA LOJAS GUANABARA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ETELVINO ALVES LIMA X TRAVESSA J</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA SANTO AMARO X RUA PROPRIÁ</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA PADARIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>TRAVESSA JOSÉ DE FARO X RUA PACATUBA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CAIXA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE' SPOT</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA JOSÉ CARVALHO PINTO X RUA JUIZ  JOSÉ EMÍDIO DA COSTA SOBRINHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA SICREDI</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>JOÃO IZAIAS</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA JOSÉ CARVALHO PINTO X RUA JUIZ JOSÉ EMÍDIO DA COSTA SOBRINHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA SICREDI</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA JOSÉ CARVALHO PINTO X RUA JUIZ JOSÉ EMÍDIO DA COSTA SOBRINHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA SICREDI</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORGE AMADO X RUA CHEROBINA DE CARVALHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA DON RAFAEL</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORGE AMADO X RUA CHEROBINA DE CARVALHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA DON RAFAEL</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORGE AMADO X RUA CHEROBINA DE CARVALHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value></value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONÍVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PROF. ANTÔNIO FAGUNDES DE SANTANA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA GALERIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>INOVE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PROF. ANTÔNIO FAGUNDES DE SANTANA X RUA PERCÍLIO DE COSTA ANDRADE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONÍVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. FRANCISCO PORTO X AV. PEDRO PAES AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SALGADO FILHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. FRANCISCO PORTO X AV. PEDRO PAES AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SALGADO FILHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JOÃO RIBEIRO X AV. GENERAL CALAZANS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>TERM. MERCADO </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>URBANE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DES. MAYNARD X RUA DOM BOSCO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CIRURGIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CIRURGIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DES. MAYNARD X RUA DOM BOSCO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA JALEKOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SUISSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value>RECOLOCADA EM 12/03/2024</value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JOSÉ CARLOS SILVA X RUA DO GARI</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO CONRADO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>ESDRAS</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. OVIÊDO TEIXEIRA X AC. JORN. SANTOS SANTANA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA SEMENTEIRA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value></value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value></value>
+      </Data>
+      <Data name="BAIRRO">
+        <value></value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value></value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X RUA SANTA ROSA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X RUA SANTA ROSA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO </value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. FRANCISCO PORTO X AV. PROF. ANTÔNIO FAGUNDES DE SANTANA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA GBARBOSA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MOURA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X SINHAZINHA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X SINHAZINHA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISCAR</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X SINHAZINHA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MÁRIO JORGE DE MENEZES VIEIRAX RUA URBANO NETO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA PRÉDIO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>COROA DO MEIO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>LARISSA PORTELA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. DELMIRO GOUVEIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO RETORNO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>EMS</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>A. MIN. GERALDO BARRETO SOBRAL X AV. DR. JOSÉ MACHADO DE SOUZA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA RIOMAR</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GUIMA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CONDOMÍNIO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CONDOMÍNIO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GUIMA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ETELVINO ALVES LIMA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>SONHO DE ÍCARO</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. CHANC. OSVALDO ARANHA X RUA TOMARELI DO GERTRÚDES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. CHANC. OSVALDO ARANHA X RUA TOMARELI DO GERTRÚDES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONIVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO MAYNARD X RUA CEDRO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>SANTA HELENA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO FRANCO X RUA LARANJEIRAS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA DEA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO </value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DULCE DINIZ X RUA PALMIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>THAIANY GUERRA</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. SÍLVIO CABRAL SANTANA X RUA MANOEL MESSIAS MELO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE AO CONDOMÍNIO RAVINES</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ARUANA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X RUA LAGARTO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X RUA LAGARTO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. JOSÉ DA SILVA RIBEIRO FILHO X RUA PARAGUAÇU</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AMÉRICA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. JOSÉ DA SILVA RIBEIRO FILHO X RUA PARAGUAÇU</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AMÉRICA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA HOTEL IBIS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. CAP. JOAQUIM M FONTES X RUA ALFERES JOSÉ PEDRO DE BRITO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>FAROLÂNDIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. CAP. JOAQUIM M FONTES X RUA ALFERES JOSÉ PEDRO DE BRITO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>FAROLÂNDIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>VERDFRUT</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PEDRO VALADARES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO POSTO DE GASOLINA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>DISPONÍVEL</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PEDRO VALADARES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO POSTO DE GASOLINA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>GRADE</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>APÓIS O ASSAI</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value></value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value />
+      </Data>
+    </ExtendedData>
+  </Placemark>
+</Document>

@@ -1,0 +1,39 @@
+﻿@page "/"
+
+@using PlacemarkSoftware.API.Models;
+@inject HttpClient httpclient;
+
+<PageTitle>Home</PageTitle>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Cliente</th>
+            <th scope="col">Rua</th>
+            <th scope="col">Bairro</th>
+            <th scope="col">Referencia</th>
+            <th scope="col">Situacao</th>
+        </tr>
+    </thead>
+    <tbody>
+       @foreach (var item in placemarks)
+        {
+            <tr>
+                <td>@item.Cliente</td>
+                <td>@item.Rua</td>
+                <td>@item.Bairro</td>
+                <td>@item.Referencia</td>
+                <td>@item.Situacao</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code{
+    List<Placemark> placemarks = new(); 
+
+    protected override async Task OnInitializedAsync()
+    {
+        placemarks = await httpclient.GetFromJsonAsync<List<Placemark>>("https://localhost:7219/api/Placemark/GetAllPlacemarks/");
+    }
+}
